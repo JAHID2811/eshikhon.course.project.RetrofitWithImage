@@ -1,4 +1,4 @@
 # RetrofitWithImage
-retrofit 
 
-#### developed by [JIS](https://jahidofficial.github.io)
+
+#### developed by [JIS](https://jahidofficial.github.io) &copy; 2020
